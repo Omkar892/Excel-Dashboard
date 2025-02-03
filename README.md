@@ -1,1 +1,2 @@
 # Excel-Dashboard
+Proficient in Microsoft Excel, leveraging skills in data cleaning, pivot table creation, and basic dashboard development to extract insights and visualize data effectively.  Passionate about data analysis and eager to contribute to data-driven decision-making.  Continuously learning and expanding my knowledge in data science, exploring new tools and techniques to enhance my analytical abilities. Open to connecting and discussing data science opportunities.
